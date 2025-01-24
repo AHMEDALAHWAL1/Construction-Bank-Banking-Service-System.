@@ -1,0 +1,1 @@
+Note: Only users with added .txt files will have their account statement function available as most other users prior to the ones included were created prior to finalization of code, thus should not be tested with or unintended errors will occur, normally file creation is part of user registration and thus will always be created if registered succesfully according to final code

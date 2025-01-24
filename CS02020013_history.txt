@@ -1,0 +1,2 @@
+2023-12-21,23:57,Transaction_type:Deposit,500
+2023-12-22,00:01,Transaction_type:Withdrawal,300

@@ -1,0 +1,15 @@
+CC09090001 Abbo_Alajele CC09090001MC 21728 Engineer M 01 01 C Abdullah_Ali@hmail.com 1991-01-01 2023-12-22
+CC06060002 Sze_Zhong CC06060002MC 5466 Saleswoman F 06 06 C Sze_Zhong@zmail.com 0001-01-01
+CC06060003 Lee_jun CC06060003MC 5466 Streamer F 06 06 C Lee_jun@Lmail.com 0001-01-01
+CC06060004 Martin_Kim CC06060004MC 5466 Mechanic M 06 06 C Martin_Kim@hmail.com 0001-01-01
+CC06060005 Walter_White CC06060005MC 5466 professional_Chemist M 06 06 C Walter_White@jmail.com 0001-01-01
+CC06060006 Kim_Wong CC06060006MC 5466 Software_Eng M 06 06 C Kim_Wong@jmail.com 0001-01-01
+CS05050007 Mohammed_Ahmad Hoosam3856 1000 Unemployed M 05 05 S Hussien@mostafamail.com 1999-11-11
+CC06060008 Mazen_Goda shinobu1 5466 Technician M 06 06 C Mazen@Godamail.com 0001-01-01
+CC05050009 Mostafa_Mohammad mostafakk 10000 Fisherman M 05 05 C mostafa@mostafa.com 2000-11-11
+CS01010010 Ahmad_Shehata CS01010010MC 1000 Singer M 01 01 S SHEhata@smail.com 2000-02-03 2023-12-12
+CS07070011 Shinobu_Orion Heart_Blade 5000 Hunter F 07 07 S shin_bu@amail.com 1977-07-07 2023-12-21
+CS01010012 Zack_Strife testtest 1500 test M 01 01 S Zack@mail.com 1991-01-01 2023-12-21
+CS02020013 Hassan_Ali hass2022 6700 Civil_Engineer M 09 09 C Hassan_Ali@mail.com 2000-12-12 2023-12-10
+CC01010014 test2 test2222 3222 test F 02 02 S test2@test2.com 2002-02-02 2023-12-21
+CC02080015 David_John David2023 10001 Doctor M 02 08 C David@sunmedical.com 1990-08-14 2023-12-23
